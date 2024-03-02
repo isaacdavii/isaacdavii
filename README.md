@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como desenvolvedor Back-End
 - 🏫 Estudante de Ciências da Computação na UNIFEI
-- 🌱 Estou atualmente estudando Python e JavaScript
+- 🌱 Estou atualmente estudando Python e JavaScript/NodeJS
 
 ##
 
