@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Isaac! 👋
 
 
-- 🔭 Hoje trabalho como desenvolvedor Back-End
-- 🏫 Estudante de Ciências da Computação na UNIFEI
-- 🌱 Estou atualmente estudando Python e JavaScript/NodeJS
+- 🔭 Atualmente não trabalho, apenas estudo.
+- 🏫 Estudante de Ciências da Computação na UNIFEI.
+- 🌱 Estou atualmente estudando Python e preparando início em Análise de Dados.
 
 ##
 
