@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente não trabalho, apenas estudo.
 - 🏫 Estudante de Ciências da Computação na UNIFEI.
-- 🌱 Estou atualmente estudando Python e preparando início em Análise de Dados.
+- 🌱 Estou atualmente estudando Python e aprofundando em suas aplicações em POO, Data Science e IA.
 
 ##
 
