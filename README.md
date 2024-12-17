@@ -1,9 +1,16 @@
-### Olá! Meu nome é Isaac! 👋
+### Olá! Meu nome é Isaac! 👋 [PT-BR]
 
 
 - 🔭 Atualmente não trabalho, apenas estudo.
 - 🏫 Estudante de Ciências da Computação na UNIFEI.
 - 🌱 Estou atualmente estudando Python e aprofundando em suas aplicações em POO, Data Science e IA.
+
+### Hi! My name is Isaac! [EN]
+
+
+- 🔭 Currently, I am focused on studying and not working yet.
+- 🏫 Computer Science student at UNIFEI.
+- 🌱 I’m currently learning Python and diving deeper into its applications in OOP, Data Science, and AI.
 
 ##
 
