@@ -5,7 +5,7 @@
 - 🏫 Estudante de Ciências da Computação na UNIFEI.
 - 🌱 Estou atualmente estudando Python e aprofundando em suas aplicações em POO, Data Science e IA.
 
-### Hi! My name is Isaac! [EN]
+### Hi! My name is Isaac! 👋 [EN]
 
 
 - 🔭 Currently, I am focused on studying and not working yet.
